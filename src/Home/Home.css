@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+body{
+   background-image: url('/public/assets/main-ph2.jpg');
+   background-size:cover;
+   width: 100%;
+   height: 100vh;
+   background-position: center;
+   position: relative;
+  background-repeat: no-repeat;
+}
+.img1-h{
+color: white;
+position: absolute;
+top: 30%;
+left: 31%;
+transform: translateX(-50%);
+z-index: 2;
+}
+.img1-t{
+padding: 19%;
+}
+.header-div1{
+    padding-top: 70px;
+   margin-top: 11%;
+   text-align: center;
+
+}
+.header1{
+   color: white;
+}
+.header2{
+    color: white;
+}
+.span1{
+color:#d1ff33;
+}
+.Icon-Div{
+    display: flex;
+    justify-content: center;
+    margin-top: 30%;
+    margin-bottom: 20%;
+}
+.IconB:hover{
+   color: white;
+}
+.Icon1{
+color:#d1ff33;
+}
+.backgournd-img{
+    background-image: linear-gradient(to right top, #9cd16b, #85c25f, #6db354, #55a549, #3b963f, #39993f, #379d3f, #35a03f, #50b647, #6bcd50, #87e457, #a3fb5f);
+}
+.summer-1{
+    margin-top: 1%;
+    margin-bottom: 3%;
+    display: flex;
+    justify-content:center;
+    border-spacing: 20px;
+    
+
+}
+.summer-2{
+    margin-bottom: 12%;
+    display: flex;
+    justify-content:center;
+    border-spacing: 20px;
+}
+.winter-1{
+    margin-top: 1px;
+    margin-bottom: 3%;
+    display: flex;
+    justify-content:center;
+    border-spacing: 20px;
+
+}
+.winter-2{
+    margin-top: 10px;
+    padding-bottom: 3%;
+    display: flex;
+    justify-content:center;
+    border-spacing: 20px;
+
+}
+.card1{
+margin-left: 22px;
+}
+.card2{
+margin-left: 22px;
+}
